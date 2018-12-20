@@ -1,4 +1,4 @@
-# ChaosGame
+# Chaos Game
 A visual testament of order emerging out of chaos
 
 In this Numberphile video, Ben Sparks depicted how apparently chaotic patterns underly the creation of a uniquely ordered structure viz. The Sierpinski Triangle.
